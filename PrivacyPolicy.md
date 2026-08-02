@@ -5,7 +5,7 @@
 # Privacy Policy / سياسة الخصوصية
 **Tahassan App | تطبيق تحصّن**
 
-[English](#english) | [العربية](#arabic)
+[English](#english) | [العربية](#arabic) | [Türkçe](#turkish)
 
 </div>
 
@@ -66,4 +66,34 @@ If you have any questions or suggestions about our Privacy Policy, please feel f
 
 ### 5. اتصل بنا
 إذا كان لديك أي أسئلة أو اقتراحات حول سياسة الخصوصية الخاصة بنا، فلا تتردد في الاتصال بنا على:  
+📧 [TahassanApp@gmail.com](mailto:TahassanApp@gmail.com)
+
+---
+<br>
+
+<a name="turkish"></a>
+## 🇹🇷 Türkçe
+
+### Tahassan Uygulaması Gizlilik Politikası
+> **Sürüm:** 1.0  
+> **Yayın Tarihi:** Kasım 2025
+
+**Tahassan** olarak gizliliğinize saygı duyuyor ve kişisel verilerinizi korumayı taahhüt ediyoruz. Bu Gizlilik Politikası, uygulamamızı kullandığınızda verilerinizi nasıl işlediğimizi açıklar.
+
+### 1. Bilgi Toplama ve Kullanım
+Uygulama kullanıcılarımızdan **hiçbir kişisel veri toplamadığımızı** temin etmek isteriz. Ayrıca sizden veri toplayan hiçbir üçüncü taraf hizmetini de kullanmıyoruz.
+
+### 2. Konum Erişim İzinleri
+Tahassan uygulaması, güneşin doğuş ve batış saatlerini doğru bir şekilde hesaplamak için coğrafi konumunuza erişim izni isteyebilir.
+
+> ⚠️ **Önemli:** Konum verilerinin **sunucularımıza gönderilmediğini** ve hiçbir üçüncü tarafla paylaşılmadığını belirtmek isteriz. Verileriniz sadece **cihazınızda yerel olarak saklanır** ve *yalnızca* uygulama içindeki gerekli hesaplamalar için kullanılır.
+
+### 3. Güvenlik
+Uygulamamızı kullanırken gösterdiğiniz güvene değer veriyor ve gizliliğinizi korumayı taahhüt ediyoruz. Hiçbir kişisel veri toplamadığımız için bilgileriniz güvende kalır.
+
+### 4. Gizlilik Politikasındaki Değişiklikler
+Gizlilik Politikamızı zaman zaman güncelleyebiliriz. Yeni Gizlilik Politikasını bu sayfada yayınlayarak herhangi bir değişiklik hakkında sizi bilgilendireceğiz. Bu değişiklikler, bu sayfada yayınlandıktan hemen sonra yürürlüğe girer.
+
+### 5. Bize Ulaşın
+Gizlilik Politikamız hakkında herhangi bir sorunuz veya öneriniz varsa, lütfen bizimle iletişime geçmekten çekinmeyin:  
 📧 [TahassanApp@gmail.com](mailto:TahassanApp@gmail.com)
