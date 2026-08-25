@@ -4,6 +4,9 @@
 
 # Privacy Policy / سياسة الخصوصية
 **Tahassan App | تطبيق تحصّن**
+<br>
+Developed by / تطوير: Mohamed Hamdo
+<br>
 
 [English](#english) | [العربية](#arabic) | [Türkçe](#turkish)
 
