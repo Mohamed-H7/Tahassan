@@ -40,7 +40,7 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 ### 5. Contact Us
 If you have any questions or suggestions about our Privacy Policy, please feel free to contact us at:  
 📧 [TahassanApp@gmail.com](mailto:TahassanApp@gmail.com)
-Developer: Mohammed Hamdo
+
 ---
 <br>
 
@@ -70,7 +70,7 @@ Developer: Mohammed Hamdo
 ### 5. اتصل بنا
 إذا كان لديك أي أسئلة أو اقتراحات حول سياسة الخصوصية الخاصة بنا، فلا تتردد في الاتصال بنا على:  
 📧 [TahassanApp@gmail.com](mailto:TahassanApp@gmail.com)
-المطور: محمد الحمدو
+
 ---
 <br>
 
@@ -100,4 +100,3 @@ Gizlilik Politikamızı zaman zaman güncelleyebiliriz. Yeni Gizlilik Politikas�
 ### 5. Bize Ulaşın
 Gizlilik Politikamız hakkında herhangi bir sorunuz veya öneriniz varsa, lütfen bizimle iletişime geçmekten çekinmeyin:  
 📧 [TahassanApp@gmail.com](mailto:TahassanApp@gmail.com)
-Geliştirici: Muhammed Hamdo
